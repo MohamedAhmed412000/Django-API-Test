@@ -1,4 +1,4 @@
-from django.http import Http404, JsonResponse, response
+from django.http import Http404, JsonResponse
 from django.shortcuts import render
 
 # Create your views here.
