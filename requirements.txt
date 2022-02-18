@@ -1,0 +1,10 @@
+installation:
+=============
+pip install django
+////////////////////////////////////////////
+Running:
+========
+inside Django-Api-Test
+run this command to run server => python manage.py runserver 
+the server will be on               127.0.0.1:8000
+if you want to specify different port like 3500 => python manage.py runserver 3500
